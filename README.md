@@ -3,7 +3,7 @@
 
 # ✨ Hi!
 <p>
-🎓 C. da Computação @ UFRRJ | 🚀 Aspirante a Engenheira de Software   <br>
+🎓 Ciência da Computação @ UFRRJ | 🚀 Aspirante a Engenheira de Software   <br>
 😍 Back-end • Front-end • IA • Banco de Dados • Processamento de Imagens   <br>
 📌 Ex-instrutora de tecnologia e técnica em redes   <br>
 🔎 Buscando estágio para aplicar meus conhecimentos   <br>
