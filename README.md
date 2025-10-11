@@ -11,7 +11,7 @@
 
 ### 📌 Histórico de Resultados Comprovados
 
-* **Monitora de Iniciação Científica (Projeto COTIC/UFRRJ - Concluído):** Atuação em **Suporte Operacional em Redes**, **Gerenciamento de Acesso** e prevenção de Engenharia Social. Responsável pela **Gestão de Chamados (*Help Desk*)** e otimização de processos de TI.
+* **Iniciação Científica (Projeto COTIC/UFRRJ - Concluído):** Atuação em **Suporte Operacional em Redes**, **Gerenciamento de Acesso** e prevenção de Engenharia Social. Responsável pela **Gestão de Chamados (*Help Desk*)** e otimização de processos de TI.
 * **Professora Socialtech (Nova Iguaçu - Concluída):** Ensino de programação (MIT App Inventor) e desenvolvimento de adaptações para **inclusão digital** (ex: baixa visão,...) no projeto +Casa da Inovação.
 * **Extensão em STEM:** Participação no **Projeto Meninas Digitais**, com foco em **representatividade feminina** e **desenvolvimento didático**.
 
@@ -78,12 +78,11 @@ Aqui estão algumas das ferramentas e linguagens de programação que fazem part
 <!-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="70px"/> -->
 
 <br>
-## 🔥 Github Stats
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayaraSSO&show_icons=true&title_color=C90076&icon_color=C90076&text_color=000&bg_color=FFF&border_color=C90076&border_radius=3&line_height=20&hide_title=false" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraSSO&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=C90076&hide=html,css,scss&bg_color=FFF&text_color=000&border_radius=3&border_color=C90076&count_private=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MayaraSSO&show_icons=true&title_color=C90076&icon_color=C90076&text_color=FFF&bg_color=1F222E&border_color=C90076&border_radius=3&line_height=20&hide_title=false" alt="Estatísticas do GitHub" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraSSO&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=C90076&hide=html,css,scss&bg_color=1F222E&text_color=FFF&border_radius=3&border_color=C90076&count_private=true" alt="Linguagens mais usadas" />
 </div>
-
 <div align="right">Made with 💗 by <a href="https://github.com/MayaraSSO">EA</a>.</div>
