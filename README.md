@@ -76,8 +76,9 @@ Aqui estão algumas das ferramentas e linguagens de programação que fazem part
 </div>
 <!-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70px"/> -->
 <!-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="70px"/> -->
-
 <br>
+
+
 ## 🔥 GitHub Stats
 
 <div align="center">
