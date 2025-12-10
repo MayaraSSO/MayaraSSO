@@ -1,27 +1,60 @@
+# Hi there, I'm Mayara Silva! 👋🇧🇷
+
+### 🚀 Future Defense & Critical Systems Engineer
+**Computer Science Student @ UFRRJ | Focused on Low-Level Engineering, Robotics & Cybersecurity.**
+
+I am transitioning from general software development to **High-Performance Computing** and **National Defense Technologies**. My goal is to build secure, robust software that bridges the gap between hardware and intelligence, ensuring mission-critical reliability.
+
+---
+
+### 💡 What I'm Working On
+
+* **🛡️ Critical Systems Security:** Deepening knowledge in Memory Management, Buffer Overflow mitigation, and Secure Coding in **C/C++** (Hackers do Bem Program).
+* **⚙️ High-Performance Algorithms:** Implementing optimized structures (like AVL Trees) to handle data with $O(\log n)$ complexity, focusing on low latency for telemetry systems.
+* **🤖 Robotics & Embedded Systems:** Exploring **ROS 2** and **RTOS** concepts for autonomous decision-making and hardware control.
+
+---
+
+### 📌 Career & Academic Highlights
+
+* **Technical Training (SENAI - Certified DBA):** Specialized in Database Administration. Focused on **Data Integrity, ACID properties, and Secure Storage**—skills I now apply to manage logs and telemetry in critical embedded systems (using SQLite/PostgreSQL).
+* **Scientific Initiation (COTIC/UFRRJ):** IT Infrastructure Support and Network Security. Managed critical access control and mitigated Social Engineering risks.
+* **STEM Outreach & Representation:** Volunteer in the **"Meninas Digitais"** project. I actively participate in school visits to represent women in Computer Science, inspiring the next generation to pursue careers in technology.
+---
+
+### 🔧 Tech Stack (The Arsenal)
+
+**Core Languages:**
 <br>
-✨ Olá!
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-🎓 Estudante de Ciência da Computação @ UFRRJ | 🚀 Foco em **Segurança, Automação** e **Dados**.
-
-### 💡 Foco Atual: Evolução Estratégica
-
-* Busco soluções de **Automação** de processos: Adquiri conhecimento em **Python** para análise de logs, priorizando sempre a **ética na manipulação de dados sigilosos** (Experiência COTIC/UFRRJ).
-* Construindo soluções de **Análise de Dados/BI** (Power BI, SQL) e aprofundando **POO em Java** e **Frontend**.
-* Atuo no **desenvolvimento de metodologias lúdicas** para o ensino e **transferência de conhecimento**, motivada pela crença de que qualquer pessoa pode aprender se o conteúdo for moldado para a sua realidade.
-
-### 📌 Histórico de Resultados Comprovados
-
-* **Iniciação Científica (Projeto COTIC/UFRRJ - Concluído):** Atuação em **Suporte Operacional em Redes**, **Gerenciamento de Acesso** e prevenção de Engenharia Social. Responsável pela **Gestão de Chamados (*Help Desk*)** e otimização de processos de TI.
-* **Professora Socialtech (Nova Iguaçu - Concluída):** Ensino de programação (MIT App Inventor) e desenvolvimento de adaptações para **inclusão digital** (ex: baixa visão,...) no projeto +Casa da Inovação.
-* **Extensão em STEM:** Participação no **Projeto Meninas Digitais**, com foco em **representatividade feminina** e **desenvolvimento didático**.
-
-🌱 **Estou apenas começando** e buscando ativamente novos desafios para aplicar meus conhecimentos e evoluir em Engenharia de Software.
-
-🔎 Vamos nos conectar e colaborar em projetos?
-
-
-## Conecte-se comigo
+**Data & Critical Systems:**
 <br>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+**Tools & Version Control:**
+<br>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+
+<details>
+    <summary>🌱 Other Skills (Web & Teaching)</summary>
+    Although my focus is on backend and hardware, I have a strong background in educational methodologies and web technologies (HTML, CSS, JS) developed during my teaching assistantships.
+</details>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayaraSSO&show_icons=true&title_color=C90076&icon_color=C90076&text_color=FFF&bg_color=1F222E&border_color=C90076&border_radius=3&line_height=20&hide_title=false" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraSSO&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=C90076&hide=html,css,scss&bg_color=1F222E&text_color=FFF&border_radius=3&border_color=C90076&count_private=true" alt="Top Languages" />
+</div>
+
+<br>
+
+## Let's Connect 🛰️
+
 <p align="center">
     <a href="https://github.com/MayaraSSO" target="_blank">
     <img loading="lazy" src="https://img.icons8.com/ios-filled/50/C90076/github.png" width="32px" />
@@ -37,53 +70,4 @@
     </a>
 </p>
 
-<br>
-<br>
-
-## 🔧 Habilidades
-
-<details>
-    <summary> 🌟 Mais sobre mim</summary> 
-  
-  - 🔭 Atualmente, estou focada em aplicar meu conhecimento para **construir soluções** significativas e impactantes.
-  
-  - 🌱 Estou **aprofundando meus estudos** nas áreas que me apaixonam, como desenvolvimento de software e inteligência artificial.
-  
-  - 🤝 Busco **colaborar em projetos inovadores** onde eu possa contribuir e aprender.
-  
-  - 💪 Sou determinada e resiliente – encaro desafios como oportunidades para **crescer**.
-  </details>
-
-<br>
-
-
-## 🤖 Tecnologias utilizadas
-Aqui estão algumas das ferramentas e linguagens de programação que fazem parte do meu dia a dia, tanto as que já tenho conhecimento quanto as que estou aprendendo.
-<br>
-<div>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="70px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="70px"/>
-
-
-</div>
-<!-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70px"/> -->
-<!-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="70px"/> -->
-<br>
-
-
-## 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayaraSSO&show_icons=true&title_color=C90076&icon_color=C90076&text_color=FFF&bg_color=1F222E&border_color=C90076&border_radius=3&line_height=20&hide_title=false" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraSSO&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=C90076&hide=html,css,scss&bg_color=1F222E&text_color=FFF&border_radius=3&border_color=C90076&count_private=true" alt="Linguagens mais usadas" />
-</div>
 <div align="right">Made with 💗 by <a href="https://github.com/MayaraSSO">EA</a>.</div>
