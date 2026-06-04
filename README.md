@@ -1,4 +1,4 @@
-# Olá, eu sou Mayara Silva! 👋🇧🇷
+# Olá, eu sou Mayara Souza! 👋🇧🇷
 
 ### 🚀 **Estudante de Ciência da Computação @ UFRRJ | Certificada pelo Google em Advanced Data Analytics**
 
